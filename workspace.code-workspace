@@ -1,0 +1,40 @@
+{
+  "folders": [
+	{
+		"path": "..\\sumit"
+	},
+	{
+		"path": "..\\New folder (8)"
+	},
+	{
+		"path": "..\\project1"
+	},
+	{
+		"path": "..\\project2"
+	},
+	{
+		"path": "..\\assignment\\poll"
+	},
+	{
+		"path": "..\\New folder (6)"
+	},
+	{
+		"path": "..\\ReactProject\\AdvancedProject\\Todo"
+	},
+	{
+		"path": "..\\todoAssignment"
+	},
+	{
+		"path": "F:\\ReactAdvancedTodoApplication"
+	},
+	{
+		"path": "F:\\React_Todo_Advanced\\todoAssignment"
+	},
+	{
+		"path": "..\\Quiz"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "New folder (8)"
+  }
+}
